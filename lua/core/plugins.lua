@@ -1,0 +1,3 @@
+lvim.plugins = {
+  { import = "plugins"}
+}

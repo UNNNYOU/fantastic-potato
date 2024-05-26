@@ -1,0 +1,5 @@
+reload("core/options")
+reload("core/keymap")
+reload("core/plugins")
+reload("core/colorscheme")
+reload("core/builtin")
