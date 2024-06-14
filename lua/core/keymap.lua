@@ -1,4 +1,3 @@
-
 vim.keymap.set("i", "jj", "<ESC>")
 vim.keymap.set("i", "kk", "<ESC>")
 

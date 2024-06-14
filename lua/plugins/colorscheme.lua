@@ -1,3 +1,3 @@
 return {
-  {"AlexvZyl/nordic.nvim"}
+	{ "neanias/everforest-nvim" },
 }
